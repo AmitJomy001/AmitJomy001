@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **amitjomy007@gmail.com**
 
-<h3 align="left">Connect with me&LeetCode:</h3>
+<h3 align="left">Connect with me & LeetCode:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amitjomy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/amitjomy007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
